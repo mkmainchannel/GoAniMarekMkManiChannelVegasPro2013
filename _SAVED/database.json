@@ -1,6 +1,33 @@
 {
 	"assets": [
 		{
+			"type": "bg",
+			"subtype": "0",
+			"title": "noob roblox.png",
+			"id": "c7430799.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "channels4_profile.jpg",
+			"ptype": "placeable",
+			"id": "7f3c1843.jpg"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "lz9vpbpj.png",
+			"ptype": "placeable",
+			"id": "755e8ec4.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "11a0b02bbb233fd9a48af6f8f4dd11b5.png",
+			"ptype": "placeable",
+			"id": "eabef27c.png"
+		},
+		{
 			"type": "char",
 			"subtype": 0,
 			"title": "Untitled",
