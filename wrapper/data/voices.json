@@ -100,17 +100,17 @@
 			"country": "US",
 			"language": "en",
 			"gender": "M",
-			"source": "cepstral",
+			"source": "voiceforge",
 			"arg": "Damien",
-			"desc": "Damien"
+			"desc": "Scary Voice"
 		},
 		"david": {
 			"country": "US",
 			"language": "en",
 			"gender": "M",
-			"source": "cepstral",
+			"source": "voiceforge",
 			"arg": "David",
-			"desc": "David"
+			"desc": "David (VoiceForge)"
 		},
 		"diane": {
 			"country": "US",
@@ -431,6 +431,14 @@
 			"arg": [2, 1, 2],
 			"source": "vocalware",
 			"desc": "Dave"
+		},
+            "daveecho": {
+			"country": "US",
+			"language": "en",
+			"gender": "M",
+			"arg": [2, 1, 2],
+			"source": "vocalwareecho",
+			"desc": "Dave (Echo)"
 		},
 		"elizabeth": {
 			"country": "GB",
@@ -1168,6 +1176,14 @@
 			"source": "vocalware",
 			"desc": "Julie"
 		},
+            "julieecho": {
+			"country": "US",
+			"language": "en",
+			"gender": "F",
+			"arg": [3, 1, 3],
+			"source": "vocalwareecho",
+			"desc": "Julie Echo"
+		},
 		"kate": {
 			"country": "US",
 			"language": "en",
@@ -1175,6 +1191,14 @@
 			"arg": [3, 1, 1],
 			"source": "vocalware",
 			"desc": "Kate (Oddcast)"
+		},
+            "kateecho": {
+			"country": "US",
+			"language": "en",
+			"gender": "F",
+			"arg": [3, 1, 1],
+			"source": "vocalwareecho",
+			"desc": "Kate (Echo)"
 		},
 		"paul": {
 			"country": "US",
